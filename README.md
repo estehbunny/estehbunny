@@ -12,7 +12,7 @@ I'm posting stuffs for game references, codes, and etc.
 
 ---
 
-Co-authored by @akmalrusli363
+Co-authored by [@akmalrusli363](https://github.com/akmalrusli363)
 
 <!---
 estehbunny/estehbunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
