@@ -8,7 +8,7 @@ I'm posting stuffs for game references, codes, and etc.
 - Code in HTML, CSS, JS, SCSS, Jekyll, etc. (still learning more 💻💡)
 - Coming soon: Personal GitHub pages!
 
-**Discord:** estehbunny#5081
+**Discord:** @estehbunny
 
 ---
 
